@@ -16555,8 +16555,18 @@
   "RootNamespace": "RazorPagesMovie",
   "Documents": [
     {
+      "FilePath": "/Users/subaru/dev/dotnet_prac/RazorPagesMovie/Pages/Movies/Details.cshtml",
+      "TargetPath": "Pages\\Movies\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/subaru/dev/dotnet_prac/RazorPagesMovie/Pages/Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/subaru/dev/dotnet_prac/RazorPagesMovie/Pages/Movies/Create.cshtml",
+      "TargetPath": "Pages\\Movies\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16575,8 +16585,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/subaru/dev/dotnet_prac/RazorPagesMovie/Pages/Movies/Index.cshtml",
+      "TargetPath": "Pages\\Movies\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/subaru/dev/dotnet_prac/RazorPagesMovie/Pages/Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/subaru/dev/dotnet_prac/RazorPagesMovie/Pages/Movies/Delete.cshtml",
+      "TargetPath": "Pages\\Movies\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/subaru/dev/dotnet_prac/RazorPagesMovie/Pages/Movies/Edit.cshtml",
+      "TargetPath": "Pages\\Movies\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
